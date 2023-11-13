@@ -114,5 +114,9 @@ $(document).ready(function () {
 
     $("#G1699870688871_HEADLINE4 > h3").text(arr[index].class_title);
     $("#G1699870688871_PARAGRAPH6 > div > span").text(arr[index].session_title);
+    $("#G1699870688871_PARAGRAPH8 > div > span").text(arr[index].session_teacher);
+    $("#G1699870688871_PARAGRAPH7 > div > span").text(arr[index].session_timeslot);
+    $("#G1699870688871_HEADLINE6 > h3 > span > span").text(arr[index].session_avaiableslot);
+    $("#G1699870688871_PARAGRAPH10").html(arr[index].other_session);
     
 })
