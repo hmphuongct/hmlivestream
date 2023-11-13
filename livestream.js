@@ -1,4 +1,5 @@
 
+$(document).ready(function () {
     var isMobile = false; //initiate as false
 
     var myString = window.location.href;
@@ -112,5 +113,6 @@
     }
 
     $("#G1699870688871_HEADLINE4 > h3").text(arr[index].class_title);
-    $("#G1699870688871_PARAGRAPH6 > div > span").text(arr[index].class_title);
+    $("#G1699870688871_PARAGRAPH6 > div > span").text(arr[index].session_title);
     
+})
