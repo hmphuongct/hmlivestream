@@ -41,7 +41,7 @@ $(document).ready(function () {
                     class_title: "iLIVE CHUYÊN ĐỀ TOÁN 7", 
                     session_title:"Cộng, trừ, nhân, chia số hữu tỉ", 
                     session_teacher:"Cô giáo Nguyễn Thị Quỳnh Mai", 
-                    session_timeslot:"Lịch học: 19:15 - 20:45 Thứ 4 22/11", 
+                    session_timeslot:"Lịch học: 9:15 - 10:45 Thứ 2 22/11", 
                     session_avaiableslot:"6 chỗ", 
                     other_session: "<div class='ladi-paragraph ladi-transition'><span style='font-weight: bold; color: rgb(3, 78, 160);''>Lịch học cùng chuyên đề:&nbsp;</span><span style='font-weight: bold; color: rgb(244, 64, 37);'><br>- [sắp diễn ra] 16:15 - 27:45 Chủ nhật 21/11<br>- [sắp diễn ra] 14:15 - 20:45 Thứ 2 24/11</span><br>- [đã kết thúc] 19:15 - 20:45 Thứ 3 24/11&nbsp;<br></div>", 
                     key:"eb07f697e7688342"
