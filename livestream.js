@@ -111,7 +111,6 @@ $(document).ready(function () {
     }else{
         $('body').append('<div id="live_area" class="container"><iframe class="responsive-iframe" allow="fullscreen" src="https://live.classin.com/m.html?lessonKey=eb07f697e7688342"></iframe></div>');  
     }
-    alert("okkkkk");
     $("#G1699870688871_HEADLINE4 > h3").text(arr[index].class_title);
     $("#G1699870688871_PARAGRAPH6 > div > span").text(arr[index].session_title);
     $("#G1699870688871_PARAGRAPH8 > div > span").text(arr[index].session_teacher);
